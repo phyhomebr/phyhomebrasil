@@ -17,7 +17,7 @@
 | **FHL2100** | OLT GPON Modelo Novo - Gerência Web | 8 & 16 Portas | [📥 Download (5 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl2100-complete) |
 | **P20 MTK** | ONU | Wireless AC | [📥 Download (3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-mtk-v6.4.1T1) |
 | **P20 ZTE** | ONU | Wireless AC | [📥 Download (4 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/p20-zte-complete) |
-| **FHR2100GZ** | ONU | XPON | [📥 Download_(3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/fhr2100gz-4.5.1C02) |
+| **FHR2100GZ** | ONU | XPON | [📥 Download (3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/fhr2100gz-4.5.1C02) |
 
 ## ⚠️ **Importante - Antes de Atualizar**
 
