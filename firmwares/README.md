@@ -11,7 +11,7 @@
 | **FHL104C** | OLT EPON Modelo Antigo | 4 Portas Firmware C04 | [📥 Download](https://github.com/phyhomebr/phyhomebrasil/releases/download/fhl104c-C04/104cv2r1_c04.bin) |
 | **FHL104C** | OLT EPON Modelo Antigo | 4 Portas Firmware C08 | [📥 Download](https://github.com/phyhomebr/phyhomebrasil/releases/download/fhl104c-C08/104cv2r1_c08.bin) |
 | **FHL104C** | OLT EPON Modelo Antigo | 4 Portas Firmware C10 | [📥 Download](https://github.com/phyhomebr/phyhomebrasil/releases/download/fhl104c-C10/104cv2r1_c10.bin) |
-| **FHL104C** | OLT EPON Modelo Antigo | 4 Portas Firware C16 | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl104c-v1.0) |
+| **FHL104C** | OLT EPON Modelo Antigo | 4 Portas Firmware C16 | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl104c-v1.0) |
 | **FHL1100** | OLT EPON Modelo Novo | 4 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl1100-v3.0.5.0) |
 | **FHL208B** | OLT GPON Modelo Antigo - Gerência CLI | 8 Portas | [📥 Download](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl208b-vP009SP3) |
 | **FHL2100** | OLT GPON Modelo Novo - Gerência Web | 8 & 16 Portas | [📥 Download (3 Versões)](https://github.com/jlui70/phyhomebrasil/releases/tag/fhl2100-complete) |
